@@ -1,0 +1,1 @@
+Never finished getting this working, mainly a time thing. Need to rework the algorithm that makes the huffman tree and encodes it. The decoding part works. Specifically, freqCounts needs to take the file name as the argument, and it's algorithm needs to be reexamined. In unhuffman, CharAsInt ignores recursive returns. Trace.cpp needs var b to be unsigned, and it isn't.
